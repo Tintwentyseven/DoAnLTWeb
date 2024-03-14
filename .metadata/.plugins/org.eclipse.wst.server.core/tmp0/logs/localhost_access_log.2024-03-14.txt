@@ -1,0 +1,8 @@
+127.0.0.1 - - [14/Mar/2024:20:56:23 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:23 +0700] "GET /DoAnWeb/DangKy.jsp HTTP/1.1" 200 6440
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:23 +0700] "GET /DoAnWeb/assets/img/united-states.png HTTP/1.1" 200 706
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:23 +0700] "GET /DoAnWeb/assets/css/style.css HTTP/1.1" 200 10471
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:23 +0700] "GET /DoAnWeb/assets/img/vietnam.png HTTP/1.1" 200 502
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:23 +0700] "GET /DoAnWeb/assets/js/script.js HTTP/1.1" 200 1040
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:26 +0700] "GET /DoAnWeb/favicon.png HTTP/1.1" 200 777
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:20:56:32 +0700] "GET /DoAnWeb/DangNhap.jsp HTTP/1.1" 200 3708

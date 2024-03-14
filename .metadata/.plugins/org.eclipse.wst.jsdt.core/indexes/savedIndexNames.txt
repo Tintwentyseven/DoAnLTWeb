@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\LTWebCuoiKy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3923894609.index
+3251970658.index
+356766220.index
+1642270215.index
+2225691265.index
+909252655.index
+1122141039.index

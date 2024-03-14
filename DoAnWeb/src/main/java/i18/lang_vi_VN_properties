@@ -1,0 +1,16 @@
+DangKy.Title = Nhập thông tin để đăng ký
+DangKy.UserName = Tên tài khoản
+DangKy.UserName2 = ví dụ:abc0107
+DangKy.PassWord = Mật khẩu
+DangKy.PassWord2 = Nhập mật khẩu
+DangKy.RePass = Nhập lại mật khẩu
+DangKy.RePass2 = Nhập mật khẩu
+DangKy.FirstName = Tên của bạn
+DangKy.FirstName2 = Nhập tên của bạn
+DangKy.Email = Email
+DangKy.Email2 = Nhập email của bạn
+DangKy.Telephone = Số điện thoại
+DangKy.Telephone2 = Nhập số điện thoại của bạn
+DangKy.Address = Địa chỉ
+DangKy.Address2 = Nhập địa chỉ của bạn
+DangKy.SignUp = Đăng ký

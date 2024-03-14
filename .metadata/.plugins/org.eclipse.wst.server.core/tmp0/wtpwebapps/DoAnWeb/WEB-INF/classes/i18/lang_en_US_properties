@@ -1,0 +1,16 @@
+DangKy.Title = Enter information to register
+DangKy.UserName = Account name
+DangKy.UserName2 = Example:abc0107
+DangKy.PassWord = Password
+DangKy.PassWord2 = Enter password
+DangKy.RePass = Enter password again
+DangKy.RePass2 = Enter password
+DangKy.FirstName = Your Name
+DangKy.FirstName2 = Enter your name
+DangKy.Email = Email
+DangKy.Email2 = Enter your email
+DangKy.Telephone = Telephone
+DangKy.Telephone2 = Enter your telephone
+DangKy.Address = Address
+DangKy.Address2 = Enter your address
+DangKy.SignUp = Sign up

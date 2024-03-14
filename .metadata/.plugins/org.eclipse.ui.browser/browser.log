@@ -1,0 +1,39 @@
+
+Jan 23, 2024 08:15:55.389 NEW SESSION
+Jan 23, 2024 08:15:55.389 [12216:1628:0123/081555.387:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:16:20.101 [12216:1628:0123/081620.100:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:17:08.105 [12216:1628:0123/081708.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:18:36.507 [12216:1628:0123/081836.506:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:22:01.893 [12216:1628:0123/082201.893:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:27:25.958 [12216:1628:0123/082725.958:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:35:19.767 [12216:1628:0123/083519.767:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 08:35:20.687 [12216:12596:0123/083520.687:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jan 23, 2024 08:35:28.141 [12216:1628:0123/083528.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2024 08:35:28.142 [12216:1628:0123/083528.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2024 09:06:13.680 [12216:11488:0123/090613.679:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 23, 2024 09:06:13.681 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 23, 2024 09:06:13.681 ERROR: Failed parsing Certificate
+Jan 23, 2024 09:06:13.682 
+Jan 23, 2024 09:06:14.478 [12216:11488:0123/090614.478:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 23, 2024 09:06:14.479 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 23, 2024 09:06:14.480 ERROR: Failed parsing Certificate
+Jan 23, 2024 09:06:14.480 
+Jan 23, 2024 09:30:54.264 [12216:12596:0123/093054.263:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jan 23, 2024 09:39:49.470 [12216:12596:0123/093949.469:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jan 23, 2024 10:14:10.767 NEW SESSION
+Jan 23, 2024 10:14:10.767 [11236:4220:0123/101410.765:ERROR:backend_impl.cc(984)] Critical error found -8
+Jan 23, 2024 10:14:11.34 [11236:4220:0123/101411.034:ERROR:backend_impl.cc(984)] Critical error found -8
+Jan 23, 2024 10:14:11.35 [11236:4220:0123/101411.034:ERROR:entry_impl.cc(949)] Failed to save user data
+Jan 23, 2024 10:14:12.295 [11236:6956:0123/101412.295:ERROR:persistent_memory_allocator.cc(890)] Corruption detected in shared-memory segment.
+Jan 23, 2024 10:14:12.491 [11236:10436:0123/101412.491:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 10:14:13.02 [11236:10436:0123/101413.002:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2024 10:14:18.326 [11236:11240:0123/101418.326:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jan 23, 2024 10:41:05.787 NEW SESSION
+Jan 23, 2024 10:41:05.788 [7204:676:0123/104105.784:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jan 23, 2024 10:41:05.909 [7204:10380:0123/104105.909:ERROR:persistent_memory_allocator.cc(890)] Corruption detected in shared-memory segment.
+Jan 23, 2024 10:41:05.951 [7204:7060:0123/104105.951:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 23, 2024 10:47:04.97 NEW SESSION
+Jan 23, 2024 10:47:04.97 [9188:4064:0123/104704.096:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
